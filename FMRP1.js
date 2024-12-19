@@ -16,10 +16,10 @@ const originalTitle = document.title;
 
 // Array of links to open sequentially
 const links = [
-  'https://example.com/link1',
-  'https://example.com/link2',
-  'https://example.com/link3',
-  'https://example.com/link4'
+   'https://shorturl.at/zMqwJ',
+  'https://tinyurl.com/FMRADLP1',
+  'https://shorturl.at/j6CVl',
+  'https://tinyurl.com/FMRADL2'
 ];
 
 let survaycurrentLinkIndex = 0; // Start with the first link
@@ -129,15 +129,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
 const websiteLinks = {
   'EngImg': [
-    'https://example.com/',
-    'https://google.com/',
-    'https://facebook.com/'
+    'https://tinyurl.com/FMRADLP1',
+    'https://shorturl.at/zMqwJ',
+    'https://tinyurl.com/FMRADL2',
+    'https://shorturl.at/j6CVl'
   ],
 
   'HindiImg': [
-    'https://example.com/',
-    'https://google.com/',
-    'https://facebook.com/'
+    'https://shorturl.at/j6CVl',
+    'https://tinyurl.com/FMRADL2',
+    'https://shorturl.at/zMqwJ',
+    'https://tinyurl.com/FMRADLP1'
   ],
   // You can add more keys with arrays of links
 };
