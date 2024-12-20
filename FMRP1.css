@@ -256,16 +256,6 @@
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* .ddomCard {
-    background: linear-gradient(45deg, #ed1c24, #00aeef ) ;
-    
-}
-
-.bcCard {
-    background: linear-gradient(45deg, #27aae2, #8cc640, #f15b26);
-
-} */
-
 .card:hover {
     transform: translateY(-10px);
 }
